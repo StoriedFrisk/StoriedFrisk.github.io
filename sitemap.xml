@@ -110,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://storiedfrisk.github.io/Gallery/index.html</loc>
-    
-    <lastmod>2026-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://storiedfrisk.github.io/2025/04/24/lily/</loc>
     
     <lastmod>2026-03-27</lastmod>
@@ -221,15 +212,6 @@
     <loc>https://storiedfrisk.github.io/2024/08/21/SaveData001/</loc>
     
     <lastmod>2024-08-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://storiedfrisk.github.io/tags/index.html</loc>
-    
-    <lastmod>2024-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
